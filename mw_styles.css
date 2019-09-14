@@ -1,4 +1,4 @@
-﻿@charset "utf-8";
+@charset "utf-8";
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 2
@@ -101,8 +101,7 @@ and even paragraphs/h2s specifically*/
 
 blockquote{
    background-color: rgb(173, 189, 227);
-   color: rgb(255, 255, 255);
-   opacity: 0.65;
+   color: rgba(255, 255, 255, 0.65);
 }
 blockquote > p{
    padding-top: 2.5px;
